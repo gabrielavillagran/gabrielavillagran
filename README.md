@@ -2,7 +2,7 @@
 ``` typescript
 const Gabriela: Person = {
     technologies: {
-        languages: ["Python", "Javascript", "Typescript"],
+        languages: ["Python", "Javascript"],
         frameworks: ["Flask"],
         databases: ["MySQL"],
         devOps: ["Linux", "Docker", "Git"],
